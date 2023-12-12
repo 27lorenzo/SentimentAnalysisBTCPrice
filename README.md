@@ -1,4 +1,4 @@
-# Sentiment Analysis BTC Price
+# SentimentAnalysisBTCPrice Repository
 This project proposes a model to analyze through Machine Learning techniques the impact of social media (Twitter) on the opening price of Bitcoin, and predict its future values. 
 ## Requirements
 - Python
